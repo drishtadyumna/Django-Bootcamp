@@ -1,0 +1,20 @@
+body{
+  background: url(https://q-cf.bstatic.com/images/hotel/max1024x768/220/220680927.jpg);
+  background-repeat: no-repeat;
+}
+
+div{
+  background: blue;
+  border_color: blue;
+  border-width: 5px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}

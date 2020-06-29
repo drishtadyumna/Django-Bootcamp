@@ -1,0 +1,20 @@
+/* selected property
+{
+  property=value;
+} */
+
+h1{
+  color: blue;
+}
+
+li{
+  color: rgb(8, 84, 1);   /*use online color picker*/
+}
+
+p{
+  color: #0895a8;  /* each rgb combo has its own hex code*/
+}
+
+h4{
+  color: rgba(255, 97, 0, 0.5) /*alpha (a) is for depth pf color with level of opacity increasing from 0 to 1 */
+}
